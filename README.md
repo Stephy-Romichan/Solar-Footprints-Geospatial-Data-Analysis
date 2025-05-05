@@ -5,14 +5,9 @@ This project leverages geospatial analytics and interactive visualization to exp
 
 ## 📂 Project Overview
 
-- **Course**: IE6600 Computation and Visualization for Analytics  
-- **Semester**: Spring 2025  
-- **Instructor**: Prof. Sivarit Sultornsanee  
-- **Team Members**:
-  - Stephy Romichan
-  - Gagan Yadav
-  - Meghana Rao  
-
+- **Course**: Computation and Visualization for Analytics  
+- **Semester**: Spring 2025
+- 
 ## 🌐 Dataset
 
 - **Source**: [Data.gov – Solar Footprints in California](https://catalog.data.gov/dataset/solar-footprints-in-california-6251a)
